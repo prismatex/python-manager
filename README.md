@@ -24,7 +24,7 @@ A web-based tool for managing multiple Python scripts with real-time monitoring,
 
 ### Option 1: Interactive Setup (Recommended)
 ```bash
-git clone https://github.com/yourusername/python-manager.git
+git clone https://github.com/prismatex/python-manager.git
 cd python-manager
 python deploy/setup.py
 ```
@@ -32,7 +32,7 @@ python deploy/setup.py
 ### Option 2: Direct Run
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/python-manager.git
+git clone https://github.com/prismatex/python-manager.git
 cd python-manager
 
 # Install requirements
