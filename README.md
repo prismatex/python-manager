@@ -6,7 +6,8 @@
 
 A web-based tool for managing multiple Python scripts with real-time monitoring, logging, and control. Perfect for managing microservices, data pipelines, background jobs, or any collection of Python scripts.
 
-![Python Manager Dashboard](https://via.placeholder.com/800x400?text=Python+Manager+Dashboard)
+![image](https://github.com/user-attachments/assets/a6a85295-43cb-40b3-97fe-0608c59bcaf5)
+
 
 ## ✨ Features
 
